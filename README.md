@@ -38,6 +38,7 @@ Low attendance and high leave flags
 Attrition risk (target variable)
 
 Machine Learning Models
+
 1.Salary Prediction Model (Regression)
 
 Algorithm: multiple linear regression
